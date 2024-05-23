@@ -7,7 +7,7 @@ https://github.com/MikazukiGameCreator/ItemUnlockSystem
 
 ーーーーーーーーーー
 
-C#の記述レベルの参考での共有になります。
+C#がどのくらい書けるかの共有になります。
 
 上記ファイルは1から入力して作成しました。
 

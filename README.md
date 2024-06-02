@@ -6,7 +6,7 @@
 
 　　※外部アセット(FlareEngine)と連携して動作します
 
-### ◆イメージ映像
+### ◆動作(イメージ映像)
 　下記YouTubeにまとめました↓↓↓
 
 https://youtu.be/TtidGkkz7IE

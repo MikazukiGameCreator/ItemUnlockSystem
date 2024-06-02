@@ -7,6 +7,6 @@
 　　※外部アセット(FlareEngine)と連携して動作
 
 ### ◆動作(イメージ映像)
-　下記YouTubeにて動画化しました↓↓↓
+下記YouTubeにて閲覧できます↓↓↓
 
 https://youtu.be/TtidGkkz7IE
